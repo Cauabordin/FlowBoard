@@ -21,7 +21,7 @@ const Index = () => {
 
   // Load view mode from localStorage
   useEffect(() => {
-    const savedViewMode = localStorage.getItem('taskflow_view_mode') as ViewMode;
+    const savedViewMode = localStorage.getItem('FlowBoard_view_mode') as ViewMode;
     if (savedViewMode) {
       setViewMode(savedViewMode);
     }
@@ -30,7 +30,7 @@ const Index = () => {
   // Save view mode to localStorage
   const handleViewModeChange = (mode: ViewMode) => {
     setViewMode(mode);
-    localStorage.setItem('taskflow_view_mode', mode);
+    localStorage.setItem('FlowBoard_view_mode', mode);
   };
 
   const handleCreateTask = () => {

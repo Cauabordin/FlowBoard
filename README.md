@@ -1,8 +1,8 @@
-# 🚀 TaskFlow - Sistema Ágil de Gerenciamento de Tarefas
+# 🚀 FlowBoard - Sistema Ágil de Gerenciamento de Tarefas
 
 ## 📋 Sobre o Projeto
 
-O **TaskFlow** é um sistema web de **gerenciamento ágil de tarefas**, desenvolvido como parte de um projeto acadêmico para uma **startup de logística**, aplicando **práticas reais de Engenharia de Software** e **metodologias ágeis**.  
+O **FlowBoard** é um sistema web de **gerenciamento ágil de tarefas**, desenvolvido como parte de um projeto acadêmico para uma **startup de logística**, aplicando **práticas reais de Engenharia de Software** e **metodologias ágeis**.  
 O objetivo do sistema é otimizar o acompanhamento de atividades e equipes através de **quadros Kanban** e **listas dinâmicas**, com suporte a **modo claro/escuro**, **filtros inteligentes** e **atribuição de responsáveis**.
 
 ---
@@ -41,10 +41,10 @@ Siga os passos abaixo para executar o projeto localmente:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/RafaellosAO10/TaskFlow
+git clone https://github.com/RafaellosAO10/FlowBoard
 
 # Acesse a pasta do projeto
-cd taskflow
+cd FlowBoard
 
 # Instale as dependências
 npm install

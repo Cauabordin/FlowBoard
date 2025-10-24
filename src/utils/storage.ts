@@ -1,6 +1,6 @@
 import { Task } from '@/types/task';
 
-const STORAGE_KEY = 'taskflow_tasks';
+const STORAGE_KEY = 'FlowBoard_tasks';
 
 export const storage = {
   getTasks: (): Task[] => {

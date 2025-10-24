@@ -17,7 +17,7 @@ export const Header = ({ viewMode, onViewModeChange }: HeaderProps) => {
               <ListTodo className="h-6 w-6 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-foreground">TaskFlow</h1>
+              <h1 className="text-2xl font-bold text-foreground">FlowBoard</h1>
               <p className="text-sm text-muted-foreground">Sistema Ágil de Gerenciamento</p>
             </div>
           </div>
