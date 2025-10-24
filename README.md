@@ -41,7 +41,7 @@ Siga os passos abaixo para executar o projeto localmente:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/RafaellosAO10/FlowBoard
+git clone https://github.com/Cauabordin/FlowBoard
 
 # Acesse a pasta do projeto
 cd FlowBoard
